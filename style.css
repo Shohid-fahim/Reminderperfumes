@@ -569,10 +569,23 @@ footer .copyright{
 
 #pagination a i{
   font-size: 16px;
-  font-weight: 600;
-  
+  font-weight: 600; 
 }
 
+#proditails .single-pro-image{
+  width: 40%;
+  margin-right: 50px;
+}
+
+.small-img-group{
+  display: flex;
+  justify-content: space-between;
+}
+
+.small-img-col{
+  flex-basis: 24%;
+  cursor: pointer;
+}
 /*shop page ends here*/
 
 
