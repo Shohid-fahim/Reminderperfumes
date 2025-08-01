@@ -808,4 +808,20 @@ footer .copyright{
   #newsletter .form {
     width: 100%;
   }
+
+  /*singel product*/
+
+  #proditails {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #proditails .single-pro-image {
+    width: 100%;
+    margin-right: 0px;
+  }
+
+  #proditails .single-pro-details {
+    width: 100%;
+  }
 }
