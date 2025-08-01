@@ -601,6 +601,36 @@ footer .copyright{
   padding: 40px 0 20px 0;
 }
 
+#proditails .single-pro-details h2{
+  font-size: 26px;
+}
+
+#proditails .single-pro-details select{
+  display: block;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+}
+
+#proditails .single-pro-details input{
+  width: 50px;
+  height: 47px;
+  padding-left: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+#proditails .single-pro-details input:focus{
+  outline: none;
+}
+
+#proditails .single-pro-details button{
+  background-color: #088178;
+  color: #fff;
+}
+
+#proditails .single-pro-details span{
+  line-height: 25px;
+}
 
 /*shop page ends here*/
 
