@@ -987,4 +987,8 @@ footer .copyright{
   #about-app .video {
     width: 100%;
   }
+
+  #page-header h2{
+    text-align: center;
+  }
 }
