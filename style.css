@@ -738,6 +738,10 @@ footer .copyright{
     padding: 2px;
   }
 
+  .section-p1 h2{
+    color: #000;
+  }
+
   #header {
     padding: 10px 30px;
   }
