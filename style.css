@@ -572,6 +572,11 @@ footer .copyright{
   font-weight: 600; 
 }
 
+#proditails{
+  display: flex;
+  margin-top: 20px;
+}
+
 #proditails .single-pro-image{
   width: 40%;
   margin-right: 50px;
@@ -586,6 +591,17 @@ footer .copyright{
   flex-basis: 24%;
   cursor: pointer;
 }
+
+#proditails .single-pro-details{
+  width: 50%;
+  padding-top: 30px;
+}
+
+#proditails .single-pro-details h4{
+  padding: 40px 0 20px 0;
+}
+
+
 /*shop page ends here*/
 
 
